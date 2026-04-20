@@ -7,6 +7,12 @@ The goal is to transform raw data into clear, actionable insights to support bet
 
 ---
 
+## Business Context
+
+Logistics companies rely on data to optimize routes, reduce costs, and improve delivery performance.
+
+This project simulates real-world analysis scenarios where SQL is used to identify inefficiencies, track shipment trends, and support operational decisions.
+
 ## Dataset
 The dataset includes information about shipments, routes, transport types, and delivery statuses.
 
@@ -51,6 +57,19 @@ The analysis covers:
 ## Project Structure
 
 - `logistics_analysis.sql` — main SQL analysis file
+
+---
+## Project Structure
+
+- `logistics_analysis.sql` — main SQL analysis file
+
+---
+
+## How to Use
+
+1. Open the SQL file `logistics_analysis.sql`
+2. Run queries in your SQL environment (PostgreSQL / MySQL)
+3. Explore results for insights
 
 ---
 
