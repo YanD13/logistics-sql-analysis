@@ -53,12 +53,6 @@ The analysis covers:
 - GitHub for version control
 
 ---
-
-## Project Structure
-
-- `logistics_analysis.sql` — main SQL analysis file
-
----
 ## Project Structure
 
 - `logistics_analysis.sql` — main SQL analysis file
